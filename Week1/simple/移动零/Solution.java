@@ -3,7 +3,7 @@
 内存消耗：38.7 MB, 在所有 Java 提交中击败了78.58%的用户
 * */
 
-package 移动零;
+package Week1.simple.移动零;
 
 
 public class Solution {

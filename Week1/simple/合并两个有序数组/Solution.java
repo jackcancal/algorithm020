@@ -1,4 +1,4 @@
-package 合并两个有序数组;
+package Week1.simple.合并两个有序数组;
 
 public class Solution {
     public static void main(String[] args) {

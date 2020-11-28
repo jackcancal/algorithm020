@@ -2,7 +2,7 @@
 执行用时：0 ms, 在所有 Java 提交中击败了100.00%的用户
 内存消耗：37 MB, 在所有 Java 提交中击败了65.36%的用户
 * */
-package 加一;
+package Week1.simple.加一;
 
 public class Solution {
     public static void main(String[] args) {
